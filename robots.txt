@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oojeidaip.frontrunnersboston.org/sitemap.xml
